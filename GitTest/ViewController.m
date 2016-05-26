@@ -20,7 +20,7 @@
     
     
     NSLog(@"yugsuytf");
-    
+    NSLog(@"你好么");
     
     
 }
